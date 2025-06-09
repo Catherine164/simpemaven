@@ -16,5 +16,5 @@ steps:
 - script: mvn clean install
   displayName: 'Run a multi-line script'
 
-- script: java -jar target/sipmlemaven-1.0-SNAPSHOT.jar
+- script: java -jar target/simplemaven-1.0-SNAPSHOT.jar
   displayName: 'Run a multi-line script'
